@@ -96,8 +96,8 @@ system.time(
 #> Classified as land:0.1
 #> Classifying lines in the lattice as land.
 #> Classified as land:0.1
-#> Calculated all phases:0.2
+#> Calculated all phases:0.1
 #> Converting points and lattice to data table.
 #>    user  system elapsed 
-#>   0.154   0.006   0.160 
+#>   0.146   0.002   0.148 
 ```
