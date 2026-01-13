@@ -295,7 +295,7 @@ p_grid <- make_route_grid(NZ_buffer30, "NZ lat-long at 150km",
 )
 #> 
 #>    user  system elapsed 
-#>   0.602   0.020   0.622
+#>   0.358   0.030   0.389
 
 # whether this map is useful depends on the target_km v the overall size of the map
 ggplot(NZ_buffer30) +
@@ -380,7 +380,7 @@ routes <- find_routes(ac, ap2, aircraft, airports,
                      refuel = refuel_ap)
 #> Route:-NZAA<>NZCH----
 #> Leg: NZAA<>NZCH Aircraft: SST M2.2
-#>  Cut envelope from lattice: 0
+#>  Cut envelope from lattice: 0.1
 #>  Calculated phase changes
 #>  Done recursion
 #>  Checking Shortcuts
@@ -394,7 +394,7 @@ routes <- find_routes(ac, ap2, aircraft, airports,
 #> 
 #> Route:-NZCH<>NZGS----
 #> Leg: NZCH<>NZGS Aircraft: SST M2.2
-#>  Cut envelope from lattice: 0
+#>  Cut envelope from lattice: 0.1
 #>  Calculated phase changes
 #>  Done recursion
 #>  Checking Shortcuts
@@ -404,7 +404,7 @@ routes <- find_routes(ac, ap2, aircraft, airports,
 #> Route:-NZAA<>NZDN----
 #>  Too far for one leg.
 #> Leg: NZAA<>NZWN Aircraft: Test-only SST
-#>  Cut envelope from lattice: 0
+#>  Cut envelope from lattice: 0.1
 #>  Calculated phase changes
 #>  Done recursion
 #>  Checking Shortcuts
@@ -416,7 +416,7 @@ routes <- find_routes(ac, ap2, aircraft, airports,
 #> 
 #> Route:-NZCH<>NZGS----
 #> Leg: NZCH<>NZGS Aircraft: Test-only SST
-#>  Cut envelope from lattice: 0
+#>  Cut envelope from lattice: 0.1
 #>  Calculated phase changes
 #>  Done recursion
 #>  Checking Shortcuts

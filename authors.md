@@ -13,13 +13,13 @@
 Source:
 [`DESCRIPTION`](https://github.com/david6marsh/himach/blob/main/DESCRIPTION)
 
-Marsh D (2025). *himach: Find Routes for Supersonic Aircraft*. R package
-version 1.0.0.9000, <https://github.com/david6marsh/himach>.
+Marsh D (2026). *himach: Find Routes for Supersonic Aircraft*. R package
+version 1.0.1, <https://github.com/david6marsh/himach>.
 
     @Manual{,
       title = {himach: Find Routes for Supersonic Aircraft},
       author = {David Marsh},
-      year = {2025},
-      note = {R package version 1.0.0.9000},
+      year = {2026},
+      note = {R package version 1.0.1},
       url = {https://github.com/david6marsh/himach},
     }

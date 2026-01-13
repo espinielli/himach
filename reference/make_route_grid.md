@@ -91,13 +91,13 @@ system.time(
 #> 
 #> Adding geo & distance to the lattice...
 #> 
-#> Added geo & distance to the lattice:0.2
+#> Added geo & distance to the lattice:0.1
 #> Classifying points in the lattice as land.
-#> Classified as land:0.2
+#> Classified as land:0.1
 #> Classifying lines in the lattice as land.
-#> Classified as land:0.2
+#> Classified as land:0.1
 #> Calculated all phases:0.2
 #> Converting points and lattice to data table.
 #>    user  system elapsed 
-#>   0.203   0.001   0.205 
+#>   0.154   0.006   0.160 
 ```
