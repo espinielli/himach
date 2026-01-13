@@ -99,5 +99,5 @@ system.time(
 #> Calculated all phases:0.1
 #> Converting points and lattice to data table.
 #>    user  system elapsed 
-#>   0.146   0.002   0.148 
+#>   0.116   0.005   0.121 
 ```

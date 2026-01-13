@@ -76,7 +76,7 @@ system.time(
 #>  Done recursion
 #>  Checking Shortcuts
 #>    user  system elapsed 
-#>   0.728   0.035   0.764
+#>   0.634   0.017   0.652
 
 # test saving of cache to a disposable directory
 tmp_dir <- tempdir()
@@ -99,7 +99,7 @@ system.time(
 )
 #> Route:-NZAA<>NZDN----
 #>    user  system elapsed 
-#>   0.017   0.000   0.017
+#>   0.017   0.000   0.016
 
 
 # if you want to see a map
