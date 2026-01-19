@@ -2,7 +2,11 @@
 
 ## himach 1.0.1
 
+CRAN release: 2026-01-16
+
 ## himach 1.0.1
+
+CRAN release: 2026-01-16
 
 - Patch of missing global declaration, previously hidden by use of
   dplyr.
